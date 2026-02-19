@@ -1068,12 +1068,12 @@ footer {
     height: 28px;
   }
 
-  header.navbar-container .navbar-nav .navbar-extra .dicoding-profile {
+  /* header.navbar-container .navbar-nav .navbar-extra .dicoding-profile {
     padding: 0.1rem 0.8rem 0.1rem 0.1rem;
-  }
+  } */
 
   header.navbar-container .navbar-nav .navbar-extra .dicoding-profile img {
-    width: 20px;
+    width: 25px;
     border-radius: 100%;
   }
 
@@ -1081,6 +1081,8 @@ footer {
     color: var(--primary);
     font-size: 0.9rem;
     transition: all 0.3s ease-in;
+    margin: 0;
+    padding: 0;
   }
 
   .content-contact .contact-form .extra .feather-mail {
